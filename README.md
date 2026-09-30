@@ -10,8 +10,6 @@ The **N-Body Robotics Network** is a multi-site enterprise network designed to d
 
 The network includes multiple sites connected through WAN links and implements routing, VLAN segmentation, centralized services, wireless access, security policies, and redundancy mechanisms.
 
-🌐 **Portfolio:** [mdfazlerabbi.vercel.app](https://mdfazlerabbi.vercel.app)
-
 ## ✨ Key Features
 
 - 🏢 Multi-site enterprise network architecture
